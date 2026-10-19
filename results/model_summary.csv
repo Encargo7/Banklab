@@ -1,0 +1,5 @@
+pattern,Serial baseline,4-bank: linear,4-bank: XOR
+contiguous,4.0,1.0,1.0
+stride4,4.0,4.0,1.0
+stride8,4.0,4.0,2.0
+mixed,4.0,1.8,1.95
